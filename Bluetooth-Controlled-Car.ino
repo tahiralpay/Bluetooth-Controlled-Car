@@ -1,3 +1,8 @@
+/*
+  APRIL 2022 TALPAY
+  PROJE İSMİ: Bluetooth Controlled Car
+*/
+
 #define on_led 13
 #define arka_led 12
 #define korna 11
